@@ -89,7 +89,7 @@ Vibe-кодинг — это когда **я задаю цель и контек
 ## 📫 Контакты
 
 - 📧 E-mail: `(xxbugaga@gmail.com)`
-- 🐙 GitHub: `(ссылка)`
+- 🐙 GitHub: `(https://github.com/Figkas)`
 
 <p>
   <img src="https://img.shields.io/badge/Статус-учусь_автоматизировать-blue?style=flat-square"/>
